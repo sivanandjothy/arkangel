@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-26T23:47:35.577Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="pa4-GlbaBZLH8wpZoe6W" version="20.7.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-27T09:33:46.245Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="JTTJ33cFdTwrmlVqzWr8" version="20.7.4" type="github" pages="4">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Sales-Service">
     <mxGraphModel dx="2074" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -722,11 +722,137 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="ZZgUoCD3Yu1h_fplLHX1" name="Skills">
-    <mxGraphModel dx="2074" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram name="Resource-Skills" id="jF7UaBVBeaumt1J1Rit5">
+    <mxGraphModel dx="2074" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
+        <mxCell id="k7YrzCEs7EUP8KKpH7SR-0" />
+        <mxCell id="k7YrzCEs7EUP8KKpH7SR-1" parent="k7YrzCEs7EUP8KKpH7SR-0" />
+        <mxCell id="k7YrzCEs7EUP8KKpH7SR-6" value="SkillRequirement" style="whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;" vertex="1" parent="k7YrzCEs7EUP8KKpH7SR-1">
+          <mxGeometry x="680" y="330" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k7YrzCEs7EUP8KKpH7SR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#6e8ebf;strokeWidth=2;startArrow=ERmandOne;startFill=0;endArrow=ERzeroToMany;endFill=0;fillColor=#e51400;" edge="1" parent="k7YrzCEs7EUP8KKpH7SR-1" source="k7YrzCEs7EUP8KKpH7SR-8" target="k7YrzCEs7EUP8KKpH7SR-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k7YrzCEs7EUP8KKpH7SR-8" value="Account" style="whiteSpace=wrap;html=1;align=center;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="k7YrzCEs7EUP8KKpH7SR-1">
+          <mxGeometry x="680" y="170" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k7YrzCEs7EUP8KKpH7SR-9" value="WorkOrder" style="whiteSpace=wrap;html=1;align=center;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="k7YrzCEs7EUP8KKpH7SR-1">
+          <mxGeometry x="680" y="250" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="k7YrzCEs7EUP8KKpH7SR-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="k7YrzCEs7EUP8KKpH7SR-1">
+          <mxGeometry x="10" y="10" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="k7YrzCEs7EUP8KKpH7SR-25" value="Sales &amp;amp; Service Objects" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="k7YrzCEs7EUP8KKpH7SR-1">
+          <mxGeometry x="50" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k7YrzCEs7EUP8KKpH7SR-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="k7YrzCEs7EUP8KKpH7SR-1">
+          <mxGeometry x="10" y="30" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="k7YrzCEs7EUP8KKpH7SR-27" value="Sales Cloud Objects" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="k7YrzCEs7EUP8KKpH7SR-1">
+          <mxGeometry x="50" y="20" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k7YrzCEs7EUP8KKpH7SR-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="k7YrzCEs7EUP8KKpH7SR-1">
+          <mxGeometry x="10" y="50" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="k7YrzCEs7EUP8KKpH7SR-29" value="Service Cloud Objects" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="k7YrzCEs7EUP8KKpH7SR-1">
+          <mxGeometry x="50" y="40" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k7YrzCEs7EUP8KKpH7SR-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="k7YrzCEs7EUP8KKpH7SR-1">
+          <mxGeometry x="10" y="70" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="k7YrzCEs7EUP8KKpH7SR-31" value="Custom Objects" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="k7YrzCEs7EUP8KKpH7SR-1">
+          <mxGeometry x="50" y="60" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k7YrzCEs7EUP8KKpH7SR-33" value="Skills for Work Order" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="k7YrzCEs7EUP8KKpH7SR-1">
+          <mxGeometry x="680" y="100" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="k7YrzCEs7EUP8KKpH7SR-36" value="&lt;h1&gt;Requirements&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;&lt;span style=&quot;font-size: 10pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;&lt;span id=&quot;docs-internal-guid-75de2a86-7fff-5238-74d3-fc8a62dc0cfd&quot;&gt;&lt;span style=&quot;font-size: 10pt; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;project record&lt;/span&gt;&lt;span style=&quot;font-size: 10pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt; and &lt;/span&gt;&lt;span style=&quot;font-size: 10pt; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;assign&lt;/span&gt;&lt;span style=&quot;font-size: 10pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt; it to a &lt;/span&gt;&lt;span style=&quot;font-size: 10pt; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;design consultant&lt;/span&gt;&lt;span style=&quot;font-size: 10pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt; in the &lt;/span&gt;&lt;span style=&quot;font-size: 10pt; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;region &lt;/span&gt;&lt;span style=&quot;font-size: 10pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;with the &lt;/span&gt;&lt;span style=&quot;font-size: 10pt; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;appropriate skills&lt;/span&gt;&lt;span style=&quot;font-size: 10pt; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt; and &lt;/span&gt;&lt;span style=&quot;font-size: 10pt; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;availability&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;span style=&quot;font-size: 10pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size: 10pt; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span id=&quot;docs-internal-guid-74d47c67-7fff-a005-30fe-5748dbcd2444&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;the design consultant &lt;/span&gt;&lt;span style=&quot;font-size: 10pt; font-family: Calibri, sans-serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;searches for installers &lt;/span&gt;&lt;span style=&quot;font-size: 10pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;who have &lt;/span&gt;&lt;span style=&quot;font-size: 10pt; font-family: Calibri, sans-serif; background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt;completed training courses&lt;/span&gt;&lt;span style=&quot;font-size: 10pt; font-family: Calibri, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;&quot;&gt; that match the project requirements and selects an installer for the project&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="k7YrzCEs7EUP8KKpH7SR-1">
+          <mxGeometry y="477" width="300" height="203" as="geometry" />
+        </mxCell>
+        <mxCell id="k7YrzCEs7EUP8KKpH7SR-39" value="&lt;h1&gt;Security&lt;/h1&gt;&lt;div&gt;CC&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;Visibility to Project__c due to MD. If Lookup, Sharing set due to Account Lookup&lt;/li&gt;&lt;li&gt;Make Project_Skills__c Detail for Project__c&lt;/li&gt;&lt;li&gt;Skills__c as Public Read Only&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CCP&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;PC&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="k7YrzCEs7EUP8KKpH7SR-1">
+          <mxGeometry x="320" y="477" width="300" height="353" as="geometry" />
+        </mxCell>
+        <mxCell id="Q43KSZ91hFMXiHgW4_M7-0" value="Skills__c" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="k7YrzCEs7EUP8KKpH7SR-1">
+          <mxGeometry x="820" y="410" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AuD0L9VV917YfCkP-HyP-0" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#6e8ebf;strokeWidth=2;startArrow=ERmandOne;startFill=0;endArrow=ERzeroToMany;endFill=0;" edge="1" parent="k7YrzCEs7EUP8KKpH7SR-1" source="k7YrzCEs7EUP8KKpH7SR-9" target="k7YrzCEs7EUP8KKpH7SR-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="330" as="sourcePoint" />
+            <mxPoint x="910" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AuD0L9VV917YfCkP-HyP-8" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#6e8ebf;strokeWidth=2;fontFamily=Helvetica;fontSize=11;fontColor=default;startArrow=ERmandOne;startFill=0;endArrow=ERzeroToMany;endFill=0;" edge="1" parent="k7YrzCEs7EUP8KKpH7SR-1" source="AuD0L9VV917YfCkP-HyP-1" target="AuD0L9VV917YfCkP-HyP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AuD0L9VV917YfCkP-HyP-1" value="User" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="k7YrzCEs7EUP8KKpH7SR-1">
+          <mxGeometry x="900" y="250" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AuD0L9VV917YfCkP-HyP-2" value="User_Skills__c" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="k7YrzCEs7EUP8KKpH7SR-1">
+          <mxGeometry x="900" y="330" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AuD0L9VV917YfCkP-HyP-4" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=11;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;strokeColor=#6e8ebf;strokeWidth=2;startFill=0;endFill=0;" edge="1" parent="k7YrzCEs7EUP8KKpH7SR-1" source="Q43KSZ91hFMXiHgW4_M7-0" target="k7YrzCEs7EUP8KKpH7SR-6">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="660" y="510" as="sourcePoint" />
+            <mxPoint x="760" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AuD0L9VV917YfCkP-HyP-5" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=11;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;strokeColor=#6e8ebf;strokeWidth=2;startFill=0;endFill=0;" edge="1" parent="k7YrzCEs7EUP8KKpH7SR-1" source="Q43KSZ91hFMXiHgW4_M7-0" target="AuD0L9VV917YfCkP-HyP-2">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="1177.5" y="410" as="sourcePoint" />
+            <mxPoint x="1070" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AuD0L9VV917YfCkP-HyP-9" value="Project_Skills__c" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="k7YrzCEs7EUP8KKpH7SR-1">
+          <mxGeometry x="190" y="320" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AuD0L9VV917YfCkP-HyP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#B20000;strokeWidth=2;startArrow=ERmandOne;startFill=0;endArrow=ERzeroToMany;endFill=0;fillColor=#e51400;" edge="1" parent="k7YrzCEs7EUP8KKpH7SR-1" source="AuD0L9VV917YfCkP-HyP-11" target="AuD0L9VV917YfCkP-HyP-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AuD0L9VV917YfCkP-HyP-11" value="Account" style="whiteSpace=wrap;html=1;align=center;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="k7YrzCEs7EUP8KKpH7SR-1">
+          <mxGeometry x="190" y="160" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AuD0L9VV917YfCkP-HyP-12" value="Project__c" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="k7YrzCEs7EUP8KKpH7SR-1">
+          <mxGeometry x="190" y="240" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AuD0L9VV917YfCkP-HyP-13" value="Skills for Custom Object - Project" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="k7YrzCEs7EUP8KKpH7SR-1">
+          <mxGeometry x="190" y="100" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AuD0L9VV917YfCkP-HyP-14" value="Skills__c" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="k7YrzCEs7EUP8KKpH7SR-1">
+          <mxGeometry x="330" y="400" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AuD0L9VV917YfCkP-HyP-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#B20000;strokeWidth=2;startArrow=ERmandOne;startFill=0;endArrow=ERzeroToMany;endFill=0;fillColor=#e51400;" edge="1" parent="k7YrzCEs7EUP8KKpH7SR-1" source="AuD0L9VV917YfCkP-HyP-12" target="AuD0L9VV917YfCkP-HyP-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="320" as="sourcePoint" />
+            <mxPoint x="420" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AuD0L9VV917YfCkP-HyP-16" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#6e8ebf;strokeWidth=2;fontFamily=Helvetica;fontSize=11;fontColor=default;startArrow=ERmandOne;startFill=0;endArrow=ERzeroToMany;endFill=0;" edge="1" parent="k7YrzCEs7EUP8KKpH7SR-1" source="AuD0L9VV917YfCkP-HyP-17" target="AuD0L9VV917YfCkP-HyP-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AuD0L9VV917YfCkP-HyP-17" value="User" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="k7YrzCEs7EUP8KKpH7SR-1">
+          <mxGeometry x="410" y="240" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AuD0L9VV917YfCkP-HyP-18" value="User_Skills__c" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="k7YrzCEs7EUP8KKpH7SR-1">
+          <mxGeometry x="410" y="320" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AuD0L9VV917YfCkP-HyP-19" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=11;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;strokeColor=#6e8ebf;strokeWidth=2;startFill=0;endFill=0;" edge="1" parent="k7YrzCEs7EUP8KKpH7SR-1" source="AuD0L9VV917YfCkP-HyP-14" target="AuD0L9VV917YfCkP-HyP-9">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="170" y="500" as="sourcePoint" />
+            <mxPoint x="270" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AuD0L9VV917YfCkP-HyP-20" value="" style="edgeStyle=orthogonalEdgeStyle;fontSize=11;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;strokeColor=#6e8ebf;strokeWidth=2;startFill=0;endFill=0;" edge="1" parent="k7YrzCEs7EUP8KKpH7SR-1" source="AuD0L9VV917YfCkP-HyP-14" target="AuD0L9VV917YfCkP-HyP-18">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="687.5" y="400" as="sourcePoint" />
+            <mxPoint x="580" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SmjETyi81nHQQkWDz0pB-0" value="&lt;h1&gt;Security&lt;/h1&gt;&lt;ol style=&quot;font-size: 14.6667px;&quot;&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="k7YrzCEs7EUP8KKpH7SR-1">
+          <mxGeometry x="760" y="480" width="300" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="SmjETyi81nHQQkWDz0pB-2" value="&lt;h1&gt;Considerations&lt;/h1&gt;&lt;span style=&quot;color: rgb(24, 24, 24); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; background-color: rgb(243, 243, 243);&quot;&gt;&lt;ol style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Calibri, sans-serif;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Work with Omnichannel&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-family: Calibri, sans-serif;&quot;&gt;MD with Work Order, Work Order Line Item, Work Type, Pending Service Routing, Job Profile&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; background-color: initial;&quot;&gt;3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bh1%26gt%3BSecurity%26lt%3B%2Fh1%26gt%3B%26lt%3Bol%20style%3D%26quot%3Bfont-size%3A%2014.6667px%3B%26quot%3B%26gt%3B%26lt%3Bli%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fli%26gt%3B%26lt%3B%2Fol%26gt%3B%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Bspacing%3D5%3BspacingTop%3D-20%3BwhiteSpace%3Dwrap%3Boverflow%3Dhidden%3Brounded%3D0%3Bdashed%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22320%22%20y%3D%22477%22%20width%3D%22300%22%20height%3D%22183%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3Ea&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="k7YrzCEs7EUP8KKpH7SR-1">
+          <mxGeometry x="770" y="640" width="345" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
