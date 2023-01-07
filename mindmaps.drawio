@@ -1,242 +1,242 @@
-<mxfile host="app.diagrams.net" modified="2022-12-29T23:17:59.636Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="ARIJmKqP0WsV4jXqBRux" version="20.7.4" type="github" pages="3">
-  <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="salesforce">
-    <mxGraphModel dx="2074" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="1745" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" source="1749" target="1764" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1746" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" source="1749" target="1771" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1747" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" source="1749" target="1760" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1748" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" source="1749" target="1753" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1749" value="Salesforce" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="495" y="380.5" width="150" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="1750" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1753" target="1756" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1751" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1753" target="1755" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1752" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1753" target="1754" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1753" value="Sales Cloud" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="215" y="385.5" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1754" value="Opportunities" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="65" y="504.5" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1755" value="Leads" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="14" y="385.5" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1756" value="Campaigns" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="65" y="254.5" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1757" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#1699D3;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1760" target="1763" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1758" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#1699D3;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1760" target="1762" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1759" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#1699D3;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1760" target="1761" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1760" value="Experience Cloud" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="495" y="570.5" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1761" value="Partner Community" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="695" y="650.5" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1762" value="Customer Community Plus" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="495" y="716.5" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1763" value="Customer Community" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="295" y="650.5" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1764" value="Marketing" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="495" y="200.5" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1765" value="Marketing Cloud" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="695" y="110.5" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1766" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1764" target="1765" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1767" value="Pardot" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="495" y="50.5" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1768" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1764" target="1767" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1oPUfOOnyJjb4oaeAetk-1780" style="edgeStyle=none;shape=connector;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.435;entryY=0.117;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="1769" target="1756">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1769" value="Sales Cloud" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="295" y="110.5" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1770" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1764" target="1769" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1771" value="Service Cloud" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="795" y="385.4999999999999" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1772" value="Knowledge" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="875" y="524.5" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1773" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1771" target="1772" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1774" value="Omni-Channel" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="1005" y="434.5" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1775" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1771" target="1774" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1776" value="Milestones" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="1005" y="324.5" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1777" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1771" target="1776" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1778" value="Entitlements" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="875" y="244.5" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1779" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1771" target="1778" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="8OC4krJbnq35wQt3EFN5" name="marketing">
-    <mxGraphModel dx="3243" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="1HxtiPgbOlkM-CQFkosd-4" value="" style="edgeStyle=entityRelationEdgeStyle;shape=connector;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FD0A22;" edge="1" parent="1" source="1HxtiPgbOlkM-CQFkosd-1" target="1HxtiPgbOlkM-CQFkosd-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1HxtiPgbOlkM-CQFkosd-6" value="" style="edgeStyle=entityRelationEdgeStyle;shape=connector;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FD0A22;" edge="1" parent="1" source="1HxtiPgbOlkM-CQFkosd-1" target="1HxtiPgbOlkM-CQFkosd-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BvYWEUZZf3EgtVDEMWPu-2" value="" style="edgeStyle=entityRelationEdgeStyle;shape=connector;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FD0A22;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="1HxtiPgbOlkM-CQFkosd-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1HxtiPgbOlkM-CQFkosd-1" value="&lt;font color=&quot;#fd0a22&quot;&gt;Marketing&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="485" y="458" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BvYWEUZZf3EgtVDEMWPu-7" style="edgeStyle=entityRelationEdgeStyle;shape=connector;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="1HxtiPgbOlkM-CQFkosd-3" target="BvYWEUZZf3EgtVDEMWPu-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BvYWEUZZf3EgtVDEMWPu-23" value="" style="edgeStyle=entityRelationEdgeStyle;shape=connector;curved=1;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FD0A22;" edge="1" parent="1" source="1HxtiPgbOlkM-CQFkosd-3" target="BvYWEUZZf3EgtVDEMWPu-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1HxtiPgbOlkM-CQFkosd-3" value="&lt;font color=&quot;#fd0a22&quot;&gt;Pardot&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="260" y="450" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BvYWEUZZf3EgtVDEMWPu-8" style="edgeStyle=entityRelationEdgeStyle;shape=connector;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="1HxtiPgbOlkM-CQFkosd-5" target="BvYWEUZZf3EgtVDEMWPu-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1HxtiPgbOlkM-CQFkosd-5" value="&lt;font color=&quot;#fd0a22&quot;&gt;Marketing Cloud&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="690" y="450" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BvYWEUZZf3EgtVDEMWPu-4" style="edgeStyle=entityRelationEdgeStyle;shape=connector;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FD0A22;entryX=0.404;entryY=0.936;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BvYWEUZZf3EgtVDEMWPu-1" target="BvYWEUZZf3EgtVDEMWPu-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BvYWEUZZf3EgtVDEMWPu-19" value="" style="edgeStyle=entityRelationEdgeStyle;shape=connector;curved=1;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FD0A22;" edge="1" parent="1" source="BvYWEUZZf3EgtVDEMWPu-1" target="BvYWEUZZf3EgtVDEMWPu-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BvYWEUZZf3EgtVDEMWPu-21" style="edgeStyle=entityRelationEdgeStyle;shape=connector;curved=1;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FD0A22;" edge="1" parent="1" source="BvYWEUZZf3EgtVDEMWPu-1" target="BvYWEUZZf3EgtVDEMWPu-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BvYWEUZZf3EgtVDEMWPu-1" value="&lt;font color=&quot;#fd0a22&quot;&gt;Campaigns in Sales Cloud&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="420" y="339" width="210" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BvYWEUZZf3EgtVDEMWPu-16" style="edgeStyle=entityRelationEdgeStyle;shape=connector;curved=1;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FD0A22;startArrow=none;endArrow=none;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="BvYWEUZZf3EgtVDEMWPu-3" target="BvYWEUZZf3EgtVDEMWPu-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BvYWEUZZf3EgtVDEMWPu-3" value="&lt;ol&gt;&lt;li&gt;&lt;font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Captures ROI&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Facilitates&amp;nbsp;cross-functional teams communication and hand-off&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Bridges gap between Marketing &amp;amp; Sales&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;Manage Marketing Plans and Assets&lt;/li&gt;&lt;li&gt;Use Pardot, Marketing Cloud or 3rd party tools to optimise campaigns&lt;/li&gt;&lt;/ol&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=14;fontColor=#000000;rounded=1;arcSize=50;strokeWidth=1;spacing=4;fontFamily=Helvetica;align=left;" vertex="1" parent="1">
-          <mxGeometry x="320" y="90" width="470" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="BvYWEUZZf3EgtVDEMWPu-5" value="&lt;ol&gt;&lt;li&gt;Provides comprehensive picture for Marketing-to-Sales funnel&lt;/li&gt;&lt;li&gt;Use Engagement Studio&lt;/li&gt;&lt;li&gt;Scoring determines Lead qualification&lt;/li&gt;&lt;/ol&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=14;fontColor=#000000;rounded=1;arcSize=50;strokeWidth=1;spacing=4;fontFamily=Helvetica;align=left;" vertex="1" parent="1">
-          <mxGeometry x="20" y="520" width="360" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="BvYWEUZZf3EgtVDEMWPu-6" value="&lt;ol&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Provides comprehensive picture for Marketing-to-Sales funnel&lt;/li&gt;&lt;li&gt;Use Distributed Tools&lt;/li&gt;&lt;li&gt;Customer journey with branded assets&lt;/li&gt;&lt;/ol&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=14;fontColor=#000000;rounded=1;arcSize=50;strokeWidth=1;spacing=4;fontFamily=Helvetica;align=left;" vertex="1" parent="1">
-          <mxGeometry x="780" y="520" width="360" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="BvYWEUZZf3EgtVDEMWPu-9" value="&lt;span style=&quot;box-sizing: border-box; font-size: var(--lwc-fontSize2,0.75rem); line-height: var(--lwc-lineHeightHeading,1.25); color: var(--lwc-colorTextWeak,#696969); text-transform: uppercase; letter-spacing: 0.0625rem; font-family: &amp;quot;Salesforce Sans&amp;quot;; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;slds-text-title_caps&quot;&gt;EXAMPLE&lt;/span&gt;&lt;span style=&quot;color: rgb(8, 7, 7); font-family: &amp;quot;Salesforce Sans&amp;quot;; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;/span&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-right: 0px; margin-bottom: var(--lwc-spacingSmall,0.75rem); margin-left: 0px; padding: 0px; font-family: &amp;quot;Salesforce Sans&amp;quot;; line-height: 20px; color: rgb(8, 7, 7); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: var(--lwc-fontWeightBold,700);&quot;&gt;Salesforce Campaigns + Pardot&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-right: 0px; margin-bottom: var(--lwc-spacingSmall,0.75rem); margin-left: 0px; padding: 0px; font-family: &amp;quot;Salesforce Sans&amp;quot;; line-height: 20px; color: rgb(8, 7, 7); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Socks Unlimited supplies socks to a variety of retailers in the United States. The company wants to &lt;b&gt;nurture prospects&lt;/b&gt; that they met at a recent trade show in Boston. Marketing manager Priya wants to use &lt;b&gt;Engagement Studio to automate the process&lt;/b&gt;.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-right: 0px; margin-bottom: var(--lwc-spacingSmall,0.75rem); margin-left: 0px; padding: 0px; font-family: &amp;quot;Salesforce Sans&amp;quot;; line-height: 20px; color: rgb(8, 7, 7); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Before Priya builds her engagement program, she creates a Salesforce campaign called Trade Shows. She uses this campaign as a parent campaign and creates child campaigns to track events including NE Trade Show 2021.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-right: 0px; margin-bottom: var(--lwc-spacingSmall,0.75rem); margin-left: 0px; padding: 0px; font-family: &amp;quot;Salesforce Sans&amp;quot;; line-height: 20px; color: rgb(8, 7, 7); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;In Pardot, she builds an engagement program that sends a series of emails, forms, and event invitations. When Engagement Studio sends an email, the prospect is added as a campaign member to NE Trade Show 2021 with a Sent status. Other actions update the custom campaign member status each time the prospect interacts with another asset. Another action scores prospects as they move through the program.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-right: 0px; margin-bottom: var(--lwc-spacingSmall,0.75rem); margin-left: 0px; padding: 0px; font-family: &amp;quot;Salesforce Sans&amp;quot;; line-height: 20px; color: rgb(8, 7, 7); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;When a &lt;b&gt;prospect’s score&lt;/b&gt; is good enough to be considered &lt;b&gt;marketing qualified&lt;/b&gt;, the prospect is assigned to a Socks Unlimited sales rep. Then, tracking continues into the sales funnel.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-family: &amp;quot;Salesforce Sans&amp;quot;; line-height: 20px; color: rgb(8, 7, 7); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;When it comes time to report her progress, Priya can use Engagement Studio reporting together with Salesforce campaign reports to identify where the trade show prospects are responding best. The rollup metrics in the hierarchy that she created can also tell her whether the Boston trade show yielded more engagement than other events that her team attended.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="20" y="750" width="710" height="420" as="geometry" />
-        </mxCell>
-        <mxCell id="BvYWEUZZf3EgtVDEMWPu-11" value="" style="edgeStyle=entityRelationEdgeStyle;shape=connector;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FD0A22;exitX=0.514;exitY=0.844;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BvYWEUZZf3EgtVDEMWPu-5" target="BvYWEUZZf3EgtVDEMWPu-9">
-          <mxGeometry x="-1" y="-186" relative="1" as="geometry">
-            <mxPoint x="550" y="468" as="sourcePoint" />
-            <mxPoint x="550" y="390" as="targetPoint" />
-            <mxPoint x="-40" y="-4" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BvYWEUZZf3EgtVDEMWPu-17" style="edgeStyle=entityRelationEdgeStyle;shape=connector;curved=1;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.639;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FD0A22;startArrow=none;endArrow=none;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="1" source="BvYWEUZZf3EgtVDEMWPu-13" target="BvYWEUZZf3EgtVDEMWPu-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BvYWEUZZf3EgtVDEMWPu-13" value="&lt;span style=&quot;box-sizing: border-box; font-size: var(--lwc-fontSize2,0.75rem); line-height: var(--lwc-lineHeightHeading,1.25); color: var(--lwc-colorTextWeak,#696969); text-transform: uppercase; letter-spacing: 0.0625rem; font-family: &amp;quot;Salesforce Sans&amp;quot;; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;slds-text-title_caps&quot;&gt;EXAMPLE&lt;/span&gt;&lt;span style=&quot;color: rgb(8, 7, 7); font-family: &amp;quot;Salesforce Sans&amp;quot;; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;/span&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-right: 0px; margin-bottom: var(--lwc-spacingSmall,0.75rem); margin-left: 0px; padding: 0px; font-family: &amp;quot;Salesforce Sans&amp;quot;; line-height: 20px; color: rgb(8, 7, 7); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: var(--lwc-fontWeightBold,700);&quot;&gt;Salesforce Campaigns + Marketing Cloud&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-right: 0px; margin-bottom: var(--lwc-spacingSmall,0.75rem); margin-left: 0px; padding: 0px; font-family: &amp;quot;Salesforce Sans&amp;quot;; line-height: 20px; color: rgb(8, 7, 7); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Floor manager Don just learned that his car dealership is finally getting more inventory of the newest hatchback that people come in asking about. He wants to set up his sales reps for success. They need high-quality, branded content so that they can follow up with folks who expressed interest. He calls Liliana in corporate marketing and finds out that she’s already a step ahead.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-right: 0px; margin-bottom: var(--lwc-spacingSmall,0.75rem); margin-left: 0px; padding: 0px; font-family: &amp;quot;Salesforce Sans&amp;quot;; line-height: 20px; color: rgb(8, 7, 7); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;A while back, Liliana used &lt;b&gt;Distributed Marketing tools&lt;/b&gt; to create a &lt;b&gt;personalized customer journey&lt;/b&gt; in Marketing Cloud and connected it to a Sales Cloud campaign. She gives Don the name of the campaign, which he can share with his reps. Now anyone with access to the Sales Cloud campaign can add a campaign member and customize the email content from Liliana’s marketing journey.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-family: &amp;quot;Salesforce Sans&amp;quot;; line-height: 20px; color: rgb(8, 7, 7); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Don’s potential customers get great looking content from his sales reps, and Liliana can track the journey metrics and campaign performance from corporate.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="780" y="750" width="640" height="340" as="geometry" />
-        </mxCell>
-        <mxCell id="BvYWEUZZf3EgtVDEMWPu-14" value="&lt;span style=&quot;box-sizing: border-box; font-size: var(--lwc-fontSize2,0.75rem); line-height: var(--lwc-lineHeightHeading,1.25); color: var(--lwc-colorTextWeak,#696969); text-transform: uppercase; letter-spacing: 0.0625rem; font-family: &amp;quot;Salesforce Sans&amp;quot;; background-color: rgb(255, 255, 255);&quot; class=&quot;slds-text-title_caps&quot;&gt;EXAMPLE&lt;/span&gt;&lt;span style=&quot;color: rgb(8, 7, 7); font-family: &amp;quot;Salesforce Sans&amp;quot;; background-color: rgb(255, 255, 255);&quot;&gt;&lt;/span&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-right: 0px; margin-bottom: var(--lwc-spacingSmall,0.75rem); margin-left: 0px; padding: 0px; font-family: &amp;quot;Salesforce Sans&amp;quot;; line-height: 20px; color: rgb(8, 7, 7); background-color: rgb(255, 255, 255);&quot;&gt;One way that Happy Homes LLC &lt;b&gt;generates leads is by sharing white papers&lt;/b&gt; for first-time home buyers and aspiring real estate investors. Its marketing manager, Kamal, creates two campaigns: Whitepaper - First Timers and Whitepaper - New Investors, which roll up to the parent campaign Whitepapers. When a buyer enters information in the &lt;b&gt;web-to-lead form &lt;/b&gt;on the Happy Homes website, the submission creates a lead record. The &lt;b&gt;lead record&lt;/b&gt; can be &lt;b&gt;added as a campaign member &lt;/b&gt;with a status of Downloaded.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-family: &amp;quot;Salesforce Sans&amp;quot;; line-height: 20px; color: rgb(8, 7, 7); background-color: rgb(255, 255, 255);&quot;&gt;Over time, the two white papers get a lot of traffic. The sales team follows up on the leads while Kamal reviews which audience segment is more engaged. Because he organizes his campaigns by the Campaign Type field, he can also investigate how white papers stack up against emails, webinars, and other marketing efforts.&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="870" y="40" width="560" height="340" as="geometry" />
-        </mxCell>
-        <mxCell id="BvYWEUZZf3EgtVDEMWPu-18" value="&lt;font color=&quot;#fd0a22&quot;&gt;Campaign Hierarchy&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="825" y="300" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BvYWEUZZf3EgtVDEMWPu-25" value="" style="edgeStyle=entityRelationEdgeStyle;shape=connector;curved=1;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FD0A22;" edge="1" parent="1" source="BvYWEUZZf3EgtVDEMWPu-20" target="BvYWEUZZf3EgtVDEMWPu-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BvYWEUZZf3EgtVDEMWPu-20" value="&lt;font color=&quot;#fd0a22&quot;&gt;Campaign Influence&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="865" y="350" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BvYWEUZZf3EgtVDEMWPu-27" value="" style="edgeStyle=entityRelationEdgeStyle;shape=connector;curved=1;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FD0A22;" edge="1" parent="1" source="BvYWEUZZf3EgtVDEMWPu-22" target="BvYWEUZZf3EgtVDEMWPu-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BvYWEUZZf3EgtVDEMWPu-22" value="&lt;font color=&quot;#fd0a22&quot;&gt;Campaign Influence&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="10" y="350" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BvYWEUZZf3EgtVDEMWPu-24" value="&lt;ol&gt;&lt;li&gt;Primary Source on Opportunity is default&lt;/li&gt;&lt;li&gt;Custom Model allows to change %&lt;/li&gt;&lt;/ol&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=14;fontColor=#000000;rounded=1;arcSize=50;strokeWidth=1;spacing=4;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="325" width="260" height="155" as="geometry" />
-        </mxCell>
-        <mxCell id="BvYWEUZZf3EgtVDEMWPu-26" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Distribution Models&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;First-touch&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Even Distribution&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Last-touch&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=14;fontColor=#000000;rounded=1;arcSize=50;strokeWidth=1;spacing=4;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="325" width="195" height="145" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="BwpvuuClFhU0w2RGOpG5" name="salescloud">
-    <mxGraphModel dx="2074" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="EyrQVj_y_V6tvCDnCH_q-3" style="edgeStyle=entityRelationEdgeStyle;shape=connector;curved=1;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="EyrQVj_y_V6tvCDnCH_q-1" target="EyrQVj_y_V6tvCDnCH_q-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EyrQVj_y_V6tvCDnCH_q-1" value="&lt;font color=&quot;#fd0a22&quot;&gt;Sales Cloud&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="520" y="330" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="EyrQVj_y_V6tvCDnCH_q-5" value="" style="edgeStyle=entityRelationEdgeStyle;shape=connector;curved=1;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="EyrQVj_y_V6tvCDnCH_q-2" target="EyrQVj_y_V6tvCDnCH_q-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EyrQVj_y_V6tvCDnCH_q-2" value="&lt;font color=&quot;#fd0a22&quot;&gt;Leads&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="340" y="280" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="EyrQVj_y_V6tvCDnCH_q-4" value="&lt;font color=&quot;#fd0a22&quot;&gt;Web-to-Lead&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="155" y="280" width="130" height="30" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile host="65bd71144e" pages="3">
+    <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="salesforce">
+        <mxGraphModel dx="1774" dy="1220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="1745" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" source="1749" target="1764" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1746" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" source="1749" target="1771" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1747" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" source="1749" target="1760" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1748" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#2F5B7C;strokeWidth=3;fontFamily=Helvetica;fontSize=16;fontColor=#23445D;spacing=5;" parent="1" source="1749" target="1753" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1749" value="Salesforce" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#2F5B7C;fontFamily=Helvetica;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+                    <mxGeometry x="495" y="380.5" width="150" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="1750" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1753" target="1756" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1751" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1753" target="1755" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1752" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#E85642;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1753" target="1754" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1753" value="Sales Cloud" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e85642;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+                    <mxGeometry x="215" y="385.5" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1754" value="Opportunities" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+                    <mxGeometry x="65" y="504.5" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1755" value="Leads" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+                    <mxGeometry x="14" y="385.5" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1756" value="Campaigns" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+                    <mxGeometry x="65" y="254.5" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1757" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#1699D3;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1760" target="1763" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1758" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#1699D3;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1760" target="1762" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1759" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#1699D3;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1760" target="1761" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1760" value="Experience Cloud" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+                    <mxGeometry x="495" y="570.5" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1761" value="Partner Community" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+                    <mxGeometry x="695" y="650.5" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1762" value="Customer Community Plus" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+                    <mxGeometry x="495" y="716.5" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1763" value="Customer Community" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+                    <mxGeometry x="295" y="650.5" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1764" value="Marketing" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+                    <mxGeometry x="495" y="200.5" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1765" value="Marketing Cloud" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+                    <mxGeometry x="695" y="110.5" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1766" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1764" target="1765" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1767" value="Pardot" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+                    <mxGeometry x="495" y="50.5" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1768" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1764" target="1767" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1oPUfOOnyJjb4oaeAetk-1780" style="edgeStyle=none;shape=connector;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.435;entryY=0.117;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;startArrow=none;startFill=0;endArrow=classic;endFill=1;" parent="1" source="1769" target="1756" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1769" value="Sales Cloud" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+                    <mxGeometry x="295" y="110.5" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1770" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1764" target="1769" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1771" value="Service Cloud" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+                    <mxGeometry x="795" y="385.4999999999999" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1772" value="Knowledge" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+                    <mxGeometry x="875" y="524.5" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1773" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1771" target="1772" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1774" value="Omni-Channel" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+                    <mxGeometry x="1005" y="434.5" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1775" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1771" target="1774" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1776" value="Milestones" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+                    <mxGeometry x="1005" y="324.5" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1777" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1771" target="1776" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1778" value="Entitlements" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
+                    <mxGeometry x="875" y="244.5" width="150" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="1779" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1771" target="1778" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="8OC4krJbnq35wQt3EFN5" name="marketing">
+        <mxGraphModel dx="2943" dy="1220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="1HxtiPgbOlkM-CQFkosd-4" value="" style="edgeStyle=entityRelationEdgeStyle;shape=connector;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FD0A22;" parent="1" source="1HxtiPgbOlkM-CQFkosd-1" target="1HxtiPgbOlkM-CQFkosd-3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1HxtiPgbOlkM-CQFkosd-6" value="" style="edgeStyle=entityRelationEdgeStyle;shape=connector;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FD0A22;" parent="1" source="1HxtiPgbOlkM-CQFkosd-1" target="1HxtiPgbOlkM-CQFkosd-5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="BvYWEUZZf3EgtVDEMWPu-2" value="" style="edgeStyle=entityRelationEdgeStyle;shape=connector;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FD0A22;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="1HxtiPgbOlkM-CQFkosd-1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="540" y="380" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="1HxtiPgbOlkM-CQFkosd-1" value="&lt;font color=&quot;#fd0a22&quot;&gt;Marketing&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="485" y="458" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="BvYWEUZZf3EgtVDEMWPu-7" style="edgeStyle=entityRelationEdgeStyle;shape=connector;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#000000;" parent="1" source="1HxtiPgbOlkM-CQFkosd-3" target="BvYWEUZZf3EgtVDEMWPu-5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="BvYWEUZZf3EgtVDEMWPu-23" value="" style="edgeStyle=entityRelationEdgeStyle;shape=connector;curved=1;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FD0A22;" parent="1" source="1HxtiPgbOlkM-CQFkosd-3" target="BvYWEUZZf3EgtVDEMWPu-22" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1HxtiPgbOlkM-CQFkosd-3" value="&lt;font color=&quot;#fd0a22&quot;&gt;Pardot&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="450" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="BvYWEUZZf3EgtVDEMWPu-8" style="edgeStyle=entityRelationEdgeStyle;shape=connector;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#000000;" parent="1" source="1HxtiPgbOlkM-CQFkosd-5" target="BvYWEUZZf3EgtVDEMWPu-6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1HxtiPgbOlkM-CQFkosd-5" value="&lt;font color=&quot;#fd0a22&quot;&gt;Marketing Cloud&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="690" y="450" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="BvYWEUZZf3EgtVDEMWPu-4" style="edgeStyle=entityRelationEdgeStyle;shape=connector;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FD0A22;entryX=0.404;entryY=0.936;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="BvYWEUZZf3EgtVDEMWPu-1" target="BvYWEUZZf3EgtVDEMWPu-3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="BvYWEUZZf3EgtVDEMWPu-19" value="" style="edgeStyle=entityRelationEdgeStyle;shape=connector;curved=1;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FD0A22;" parent="1" source="BvYWEUZZf3EgtVDEMWPu-1" target="BvYWEUZZf3EgtVDEMWPu-18" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="BvYWEUZZf3EgtVDEMWPu-21" style="edgeStyle=entityRelationEdgeStyle;shape=connector;curved=1;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FD0A22;" parent="1" source="BvYWEUZZf3EgtVDEMWPu-1" target="BvYWEUZZf3EgtVDEMWPu-20" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="BvYWEUZZf3EgtVDEMWPu-1" value="&lt;font color=&quot;#fd0a22&quot;&gt;Campaigns in Sales Cloud&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="420" y="339" width="210" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="BvYWEUZZf3EgtVDEMWPu-16" style="edgeStyle=entityRelationEdgeStyle;shape=connector;curved=1;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FD0A22;startArrow=none;endArrow=none;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" parent="1" source="BvYWEUZZf3EgtVDEMWPu-3" target="BvYWEUZZf3EgtVDEMWPu-14" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="BvYWEUZZf3EgtVDEMWPu-3" value="&lt;ol&gt;&lt;li&gt;&lt;font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Captures ROI&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Facilitates&amp;nbsp;cross-functional teams communication and hand-off&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Bridges gap between Marketing &amp;amp; Sales&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;Manage Marketing Plans and Assets&lt;/li&gt;&lt;li&gt;Use Pardot, Marketing Cloud or 3rd party tools to optimise campaigns&lt;/li&gt;&lt;/ol&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=14;fontColor=#000000;rounded=1;arcSize=50;strokeWidth=1;spacing=4;fontFamily=Helvetica;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="90" width="470" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="BvYWEUZZf3EgtVDEMWPu-5" value="&lt;ol&gt;&lt;li&gt;Provides comprehensive picture for Marketing-to-Sales funnel&lt;/li&gt;&lt;li&gt;Use Engagement Studio&lt;/li&gt;&lt;li&gt;Scoring determines Lead qualification&lt;/li&gt;&lt;/ol&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=14;fontColor=#000000;rounded=1;arcSize=50;strokeWidth=1;spacing=4;fontFamily=Helvetica;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="520" width="360" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="BvYWEUZZf3EgtVDEMWPu-6" value="&lt;ol&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Provides comprehensive picture for Marketing-to-Sales funnel&lt;/li&gt;&lt;li&gt;Use Distributed Tools&lt;/li&gt;&lt;li&gt;Customer journey with branded assets&lt;/li&gt;&lt;/ol&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=14;fontColor=#000000;rounded=1;arcSize=50;strokeWidth=1;spacing=4;fontFamily=Helvetica;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="780" y="520" width="360" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="BvYWEUZZf3EgtVDEMWPu-9" value="&lt;span style=&quot;box-sizing: border-box; font-size: var(--lwc-fontSize2,0.75rem); line-height: var(--lwc-lineHeightHeading,1.25); color: var(--lwc-colorTextWeak,#696969); text-transform: uppercase; letter-spacing: 0.0625rem; font-family: &amp;quot;Salesforce Sans&amp;quot;; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;slds-text-title_caps&quot;&gt;EXAMPLE&lt;/span&gt;&lt;span style=&quot;color: rgb(8, 7, 7); font-family: &amp;quot;Salesforce Sans&amp;quot;; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;/span&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-right: 0px; margin-bottom: var(--lwc-spacingSmall,0.75rem); margin-left: 0px; padding: 0px; font-family: &amp;quot;Salesforce Sans&amp;quot;; line-height: 20px; color: rgb(8, 7, 7); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: var(--lwc-fontWeightBold,700);&quot;&gt;Salesforce Campaigns + Pardot&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-right: 0px; margin-bottom: var(--lwc-spacingSmall,0.75rem); margin-left: 0px; padding: 0px; font-family: &amp;quot;Salesforce Sans&amp;quot;; line-height: 20px; color: rgb(8, 7, 7); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Socks Unlimited supplies socks to a variety of retailers in the United States. The company wants to &lt;b&gt;nurture prospects&lt;/b&gt; that they met at a recent trade show in Boston. Marketing manager Priya wants to use &lt;b&gt;Engagement Studio to automate the process&lt;/b&gt;.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-right: 0px; margin-bottom: var(--lwc-spacingSmall,0.75rem); margin-left: 0px; padding: 0px; font-family: &amp;quot;Salesforce Sans&amp;quot;; line-height: 20px; color: rgb(8, 7, 7); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Before Priya builds her engagement program, she creates a Salesforce campaign called Trade Shows. She uses this campaign as a parent campaign and creates child campaigns to track events including NE Trade Show 2021.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-right: 0px; margin-bottom: var(--lwc-spacingSmall,0.75rem); margin-left: 0px; padding: 0px; font-family: &amp;quot;Salesforce Sans&amp;quot;; line-height: 20px; color: rgb(8, 7, 7); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;In Pardot, she builds an engagement program that sends a series of emails, forms, and event invitations. When Engagement Studio sends an email, the prospect is added as a campaign member to NE Trade Show 2021 with a Sent status. Other actions update the custom campaign member status each time the prospect interacts with another asset. Another action scores prospects as they move through the program.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-right: 0px; margin-bottom: var(--lwc-spacingSmall,0.75rem); margin-left: 0px; padding: 0px; font-family: &amp;quot;Salesforce Sans&amp;quot;; line-height: 20px; color: rgb(8, 7, 7); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;When a &lt;b&gt;prospect’s score&lt;/b&gt; is good enough to be considered &lt;b&gt;marketing qualified&lt;/b&gt;, the prospect is assigned to a Socks Unlimited sales rep. Then, tracking continues into the sales funnel.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-family: &amp;quot;Salesforce Sans&amp;quot;; line-height: 20px; color: rgb(8, 7, 7); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;When it comes time to report her progress, Priya can use Engagement Studio reporting together with Salesforce campaign reports to identify where the trade show prospects are responding best. The rollup metrics in the hierarchy that she created can also tell her whether the Boston trade show yielded more engagement than other events that her team attended.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="20" y="750" width="710" height="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="BvYWEUZZf3EgtVDEMWPu-11" value="" style="edgeStyle=entityRelationEdgeStyle;shape=connector;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FD0A22;exitX=0.514;exitY=0.844;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BvYWEUZZf3EgtVDEMWPu-5" target="BvYWEUZZf3EgtVDEMWPu-9" edge="1">
+                    <mxGeometry x="-1" y="-186" relative="1" as="geometry">
+                        <mxPoint x="550" y="468" as="sourcePoint"/>
+                        <mxPoint x="550" y="390" as="targetPoint"/>
+                        <mxPoint x="-40" y="-4" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="BvYWEUZZf3EgtVDEMWPu-17" style="edgeStyle=entityRelationEdgeStyle;shape=connector;curved=1;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.639;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FD0A22;startArrow=none;endArrow=none;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" parent="1" source="BvYWEUZZf3EgtVDEMWPu-13" target="BvYWEUZZf3EgtVDEMWPu-6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="BvYWEUZZf3EgtVDEMWPu-13" value="&lt;span style=&quot;box-sizing: border-box; font-size: var(--lwc-fontSize2,0.75rem); line-height: var(--lwc-lineHeightHeading,1.25); color: var(--lwc-colorTextWeak,#696969); text-transform: uppercase; letter-spacing: 0.0625rem; font-family: &amp;quot;Salesforce Sans&amp;quot;; text-align: start; background-color: rgb(255, 255, 255);&quot; class=&quot;slds-text-title_caps&quot;&gt;EXAMPLE&lt;/span&gt;&lt;span style=&quot;color: rgb(8, 7, 7); font-family: &amp;quot;Salesforce Sans&amp;quot;; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;/span&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-right: 0px; margin-bottom: var(--lwc-spacingSmall,0.75rem); margin-left: 0px; padding: 0px; font-family: &amp;quot;Salesforce Sans&amp;quot;; line-height: 20px; color: rgb(8, 7, 7); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: var(--lwc-fontWeightBold,700);&quot;&gt;Salesforce Campaigns + Marketing Cloud&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-right: 0px; margin-bottom: var(--lwc-spacingSmall,0.75rem); margin-left: 0px; padding: 0px; font-family: &amp;quot;Salesforce Sans&amp;quot;; line-height: 20px; color: rgb(8, 7, 7); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Floor manager Don just learned that his car dealership is finally getting more inventory of the newest hatchback that people come in asking about. He wants to set up his sales reps for success. They need high-quality, branded content so that they can follow up with folks who expressed interest. He calls Liliana in corporate marketing and finds out that she’s already a step ahead.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-right: 0px; margin-bottom: var(--lwc-spacingSmall,0.75rem); margin-left: 0px; padding: 0px; font-family: &amp;quot;Salesforce Sans&amp;quot;; line-height: 20px; color: rgb(8, 7, 7); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;A while back, Liliana used &lt;b&gt;Distributed Marketing tools&lt;/b&gt; to create a &lt;b&gt;personalized customer journey&lt;/b&gt; in Marketing Cloud and connected it to a Sales Cloud campaign. She gives Don the name of the campaign, which he can share with his reps. Now anyone with access to the Sales Cloud campaign can add a campaign member and customize the email content from Liliana’s marketing journey.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-family: &amp;quot;Salesforce Sans&amp;quot;; line-height: 20px; color: rgb(8, 7, 7); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Don’s potential customers get great looking content from his sales reps, and Liliana can track the journey metrics and campaign performance from corporate.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="780" y="750" width="640" height="340" as="geometry"/>
+                </mxCell>
+                <mxCell id="BvYWEUZZf3EgtVDEMWPu-14" value="&lt;span style=&quot;box-sizing: border-box; font-size: var(--lwc-fontSize2,0.75rem); line-height: var(--lwc-lineHeightHeading,1.25); color: var(--lwc-colorTextWeak,#696969); text-transform: uppercase; letter-spacing: 0.0625rem; font-family: &amp;quot;Salesforce Sans&amp;quot;; background-color: rgb(255, 255, 255);&quot; class=&quot;slds-text-title_caps&quot;&gt;EXAMPLE&lt;/span&gt;&lt;span style=&quot;color: rgb(8, 7, 7); font-family: &amp;quot;Salesforce Sans&amp;quot;; background-color: rgb(255, 255, 255);&quot;&gt;&lt;/span&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-right: 0px; margin-bottom: var(--lwc-spacingSmall,0.75rem); margin-left: 0px; padding: 0px; font-family: &amp;quot;Salesforce Sans&amp;quot;; line-height: 20px; color: rgb(8, 7, 7); background-color: rgb(255, 255, 255);&quot;&gt;One way that Happy Homes LLC &lt;b&gt;generates leads is by sharing white papers&lt;/b&gt; for first-time home buyers and aspiring real estate investors. Its marketing manager, Kamal, creates two campaigns: Whitepaper - First Timers and Whitepaper - New Investors, which roll up to the parent campaign Whitepapers. When a buyer enters information in the &lt;b&gt;web-to-lead form &lt;/b&gt;on the Happy Homes website, the submission creates a lead record. The &lt;b&gt;lead record&lt;/b&gt; can be &lt;b&gt;added as a campaign member &lt;/b&gt;with a status of Downloaded.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; font-family: &amp;quot;Salesforce Sans&amp;quot;; line-height: 20px; color: rgb(8, 7, 7); background-color: rgb(255, 255, 255);&quot;&gt;Over time, the two white papers get a lot of traffic. The sales team follows up on the leads while Kamal reviews which audience segment is more engaged. Because he organizes his campaigns by the Campaign Type field, he can also investigate how white papers stack up against emails, webinars, and other marketing efforts.&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Helvetica;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="870" y="40" width="560" height="340" as="geometry"/>
+                </mxCell>
+                <mxCell id="BvYWEUZZf3EgtVDEMWPu-18" value="&lt;font color=&quot;#fd0a22&quot;&gt;Campaign Hierarchy&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="825" y="300" width="170" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="BvYWEUZZf3EgtVDEMWPu-25" value="" style="edgeStyle=entityRelationEdgeStyle;shape=connector;curved=1;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FD0A22;" parent="1" source="BvYWEUZZf3EgtVDEMWPu-20" target="BvYWEUZZf3EgtVDEMWPu-24" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="BvYWEUZZf3EgtVDEMWPu-20" value="&lt;font color=&quot;#fd0a22&quot;&gt;Campaign Influence&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="865" y="350" width="170" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="BvYWEUZZf3EgtVDEMWPu-27" value="" style="edgeStyle=entityRelationEdgeStyle;shape=connector;curved=1;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FD0A22;" parent="1" source="BvYWEUZZf3EgtVDEMWPu-22" target="BvYWEUZZf3EgtVDEMWPu-26" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="BvYWEUZZf3EgtVDEMWPu-22" value="&lt;font color=&quot;#fd0a22&quot;&gt;Campaign Influence&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="350" width="170" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="BvYWEUZZf3EgtVDEMWPu-24" value="&lt;ol&gt;&lt;li&gt;Primary Source on Opportunity is default&lt;/li&gt;&lt;li&gt;Custom Model allows to change %&lt;/li&gt;&lt;/ol&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=14;fontColor=#000000;rounded=1;arcSize=50;strokeWidth=1;spacing=4;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="1140" y="325" width="260" height="155" as="geometry"/>
+                </mxCell>
+                <mxCell id="BvYWEUZZf3EgtVDEMWPu-26" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;Distribution Models&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;First-touch&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Even Distribution&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Last-touch&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=14;fontColor=#000000;rounded=1;arcSize=50;strokeWidth=1;spacing=4;align=left;" parent="1" vertex="1">
+                    <mxGeometry x="-290" y="325" width="195" height="145" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="BwpvuuClFhU0w2RGOpG5" name="salescloud">
+        <mxGraphModel dx="1774" dy="1220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="EyrQVj_y_V6tvCDnCH_q-3" style="edgeStyle=entityRelationEdgeStyle;shape=connector;curved=1;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#000000;" parent="1" source="EyrQVj_y_V6tvCDnCH_q-1" target="EyrQVj_y_V6tvCDnCH_q-2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="EyrQVj_y_V6tvCDnCH_q-1" value="&lt;font color=&quot;#fd0a22&quot;&gt;Sales Cloud&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="330" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="EyrQVj_y_V6tvCDnCH_q-5" value="" style="edgeStyle=entityRelationEdgeStyle;shape=connector;curved=1;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;shadow=0;labelBackgroundColor=none;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#000000;" parent="1" source="EyrQVj_y_V6tvCDnCH_q-2" target="EyrQVj_y_V6tvCDnCH_q-4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="EyrQVj_y_V6tvCDnCH_q-2" value="&lt;font color=&quot;#fd0a22&quot;&gt;Leads&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="340" y="280" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="EyrQVj_y_V6tvCDnCH_q-4" value="&lt;font color=&quot;#fd0a22&quot;&gt;Web-to-Lead&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+                    <mxGeometry x="155" y="280" width="130" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
 </mxfile>
